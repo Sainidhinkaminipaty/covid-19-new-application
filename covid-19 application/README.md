@@ -15,7 +15,7 @@ And it uses Mapbox to populate the coordinates on the map using GeoJSON format.
 After git clone import the dummy statistics into your local MongoDB database, which will help you to start the project.
 
 ``````````````````````````
-git clone https://github.com/anshumanpattnaik/covid19-full-stack-application.git
+git clone https://github.com/Sainidhinkaminipaty/covid19-full-stack-application.git
 
 cd covid19-full-stack-application
 
@@ -60,9 +60,6 @@ If you face any problem or have any suggestion on improving the code then feel f
 [https://hackbotone.com/blog/covid-19-full-stack-application](https://hackbotone.com/blog/covid-19-full-stack-application)
 
 [https://www.youtube.com/watch?v=dth5jfLDuus&t=16s](https://www.youtube.com/watch?v=dth5jfLDuus&t=16s)
-
-### Website Design & Developed by
-[Anshuman Pattnaik](https://www.linkedin.com/in/anshuman123/)
 
 ### License
 This project is licensed under the [MIT License](LICENSE)
